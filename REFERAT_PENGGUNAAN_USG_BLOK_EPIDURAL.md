@@ -2,33 +2,33 @@
 
 ## Abstrak
 
-Blok epidural merupakan teknik anestesi dan analgesia neuraksial yang luas digunakan pada pembedahan, tata laksana nyeri akut, dan analgesia persalinan. Keberhasilan teknik konvensional berbasis landmark permukaan tubuh dan *loss of resistance* sangat dipengaruhi oleh kemampuan operator, variasi anatomi pasien, dan kualitas palpasi landmark. Kondisi seperti obesitas, skoliosis, perubahan degeneratif, serta riwayat operasi tulang belakang dapat menurunkan akurasi identifikasi interspace dan meningkatkan jumlah tusukan, kegagalan tindakan, serta komplikasi. Ultrasonografi (USG) neuraksial berkembang sebagai modalitas yang memungkinkan visualisasi struktur tulang belakang, penentuan interspace yang lebih akurat, estimasi kedalaman ruang epidural, dan perencanaan trayektori jarum yang lebih tepat. Referat ini membahas anatomi neuraksial yang relevan, keterbatasan teknik epidural konvensional, prinsip dasar dan aspek teknis USG neuraksial, prosedur panduan USG statis maupun real-time, serta penerapannya pada populasi dengan anatomi sulit. Berdasarkan tinjauan pustaka, penggunaan USG pra-tindakan secara umum meningkatkan keberhasilan tusukan pertama, mengurangi jumlah upaya, memperbaiki ketepatan identifikasi level, dan bermanfaat khusus pada pasien dengan landmark sulit. Panduan USG real-time berpotensi memberikan keuntungan tambahan, tetapi memerlukan kurva belajar lebih tinggi dan masih memiliki keterbatasan teknis. Dengan demikian, USG merupakan alat bantu penting untuk meningkatkan keberhasilan dan keamanan tindakan blok epidural bila digunakan secara sistematis oleh operator yang terlatih.
+Blok epidural merupakan teknik anestesi regional neuraksial yang banyak digunakan untuk anestesi pembedahan, analgesia perioperatif, dan analgesia obstetri. Namun, keberhasilan teknik konvensional masih dipengaruhi ketepatan palpasi penanda anatomi permukaan, pengalaman operator, serta variasi anatomi pasien. Pada pasien obesitas, perubahan degeneratif tulang belakang, atau penanda anatomi yang sulit diraba, teknik berbasis penanda anatomi permukaan tubuh dan *loss of resistance* berisiko meningkatkan jumlah tusukan, perubahan arah jarum, kegagalan blok, dan komplikasi. Ultrasonografi neuraksial memberikan bantuan melalui identifikasi celah intervertebra, garis tengah, estimasi kedalaman ruang epidural, serta penentuan arah insersi jarum yang lebih tepat. Referat ini membahas anatomi neuraksial dan ruang epidural, keterbatasan teknik epidural konvensional, prinsip dasar dan aspek teknis ultrasonografi neuraksial, prosedur panduan ultrasonografi sebelum tindakan dan secara *real-time*, serta penerapannya pada populasi dengan anatomi sulit. Berdasarkan sumber yang ditelaah, ultrasonografi sebelum tindakan secara umum meningkatkan keberhasilan tusukan pertama, menurunkan jumlah percobaan, dan paling bermanfaat pada kasus yang diperkirakan sulit, terutama pada pasien obstetri dan pasien dengan penanda anatomi yang buruk. Dengan demikian, ultrasonografi merupakan alat bantu yang penting untuk meningkatkan keberhasilan, efisiensi, dan keselamatan tindakan blok epidural bila digunakan secara sistematis oleh operator yang terlatih.[1-4]
 
-**Kata kunci:** blok epidural, ultrasonografi neuraksial, ruang epidural, *loss of resistance*, analgesia persalinan
+**Kata kunci:** blok epidural, ultrasonografi neuraksial, ruang epidural, *loss of resistance*, obstetri
 
 ## Abstract
 
-Epidural block is a widely used neuraxial technique for anesthesia, analgesia, perioperative pain management, and labor analgesia. The success of the conventional landmark-based and loss-of-resistance technique is strongly influenced by operator experience, patient anatomical variation, and the reliability of surface landmarks. Conditions such as obesity, scoliosis, degenerative spinal changes, and previous spine surgery may reduce the accuracy of interspace identification and increase repeated needle passes, technical failure, and complications. Neuraxial ultrasound has evolved as an adjunct that enables visualization of spinal structures, more accurate vertebral level identification, estimation of epidural depth, and optimization of needle trajectory before puncture. This paper reviews relevant neuraxial anatomy, limitations of conventional epidural techniques, basic principles and technical aspects of neuraxial ultrasound, pre-procedural and real-time ultrasound guidance, and its role in patients with difficult anatomy. Available evidence shows that pre-procedural ultrasound generally improves first-pass success, reduces needle attempts, enhances level identification, and offers particular benefit in patients with poorly palpable landmarks. Real-time ultrasound guidance may provide additional advantages, but it requires greater technical expertise and remains limited by acoustic access and needle visualization challenges. Overall, ultrasound is an important adjunct for improving the success and safety of epidural block when applied systematically by trained clinicians.
+Epidural block is a widely used neuraxial regional anesthetic technique for surgical anesthesia, perioperative analgesia, and obstetric analgesia. Nevertheless, the success of the conventional technique still depends on accurate landmark palpation, operator experience, and patient anatomical variation. In obese patients, those with degenerative spinal changes, or those with poorly palpable landmarks, surface landmark-based and loss-of-resistance techniques may increase the number of needle passes, redirections, block failure, and complications. Neuraxial ultrasound provides assistance by identifying the intervertebral space, midline, estimated epidural depth, and the optimal direction of needle insertion. This paper reviews neuraxial anatomy and the epidural space, limitations of conventional epidural techniques, the basic principles and technical aspects of neuraxial ultrasound, pre-procedural and real-time ultrasound guidance, and its use in patients with difficult anatomy. Based on the reviewed sources, pre-procedural ultrasound generally improves first-attempt success, reduces the number of attempts, and is especially beneficial in predicted difficult cases, particularly in obstetric patients and in patients with poorly palpable landmarks. Therefore, ultrasound is an important adjunct for improving the success, efficiency, and safety of epidural block when used systematically by trained operators.[1-4]
 
-**Keywords:** epidural block, neuraxial ultrasound, epidural space, loss of resistance, labor analgesia
+**Keywords:** epidural block, neuraxial ultrasound, epidural space, *loss of resistance*, obstetrics
 
 ## BAB I. PENDAHULUAN
 
 ### 1.1 Latar Belakang
 
-Blok epidural merupakan salah satu teknik anestesi regional neuraksial yang bernilai tinggi karena dapat digunakan untuk anestesi pembedahan, analgesia perioperatif, terapi nyeri, dan analgesia obstetri. Namun, keberhasilan teknik ini secara tradisional bertumpu pada identifikasi landmark permukaan tubuh dan konfirmasi masuknya ujung jarum ke ruang epidural dengan teknik *loss of resistance* (LOR). Pendekatan tersebut bersifat tidak langsung karena operator tidak memvisualisasikan struktur target secara real-time, sehingga hasilnya sangat dipengaruhi pengalaman operator dan variasi anatomi pasien.[1-3]
+Blok epidural merupakan prosedur neuraksial yang penting dalam praktik anestesi karena dapat digunakan untuk anestesi pembedahan, analgesia pascabedah, dan analgesia persalinan. Walaupun teknik ini telah lama dipakai, keberhasilannya masih sangat bergantung pada kemampuan operator mengenali penanda anatomi permukaan tubuh dan menilai hilangnya resistensi saat ujung jarum memasuki ruang epidural. Pendekatan tersebut bersifat tidak langsung karena struktur sasaran tidak divisualisasikan secara langsung selama prosedur.[1,3,6]
 
-Pada praktik klinis, kegagalan blok epidural masih dijumpai, terutama pada pasien obesitas, pasien dengan kelainan tulang belakang, lansia dengan perubahan degeneratif, serta pasien pascaoperasi vertebra. Identifikasi interspace yang tidak tepat dapat menyebabkan insersi pada level yang salah, meningkatkan jumlah tusukan dan *needle redirection*, serta menaikkan risiko komplikasi seperti pungsi duramater tidak disengaja, blok yang tidak adekuat, dan ketidakpuasan pasien.[3-5]
+Pada pasien dengan obesitas, deformitas tulang belakang, perubahan degeneratif, atau penanda anatomi yang sukar diraba, teknik konvensional dapat menyebabkan salah identifikasi level pungsi, peningkatan jumlah tusukan, perubahan arah jarum berulang, dan kegagalan blok. Telaah sistematik menunjukkan bahwa ultrasonografi neuraksial membantu meningkatkan akurasi identifikasi level serta memperbaiki keberhasilan tindakan, terutama pada prosedur yang diperkirakan sulit.[1,2,4]
 
-Ultrasonografi (USG) neuraksial berkembang sebagai modalitas pencitraan *point-of-care* yang dapat digunakan sebelum tindakan maupun secara dinamis saat insersi jarum. USG memungkinkan identifikasi interspace vertebra, penandaan titik pungsi, estimasi jarak kulit ke ruang epidural, dan penilaian sudut insersi yang optimal. Sejumlah telaah sistematik menunjukkan bahwa USG pra-tindakan dapat meningkatkan keberhasilan tusukan pertama dan mengurangi jumlah percobaan, terutama pada pasien dengan anatomi sulit.[2,4,5] Meta-analisis khusus populasi obstetri serta tinjauan Cochrane terbaru juga memperlihatkan bahwa manfaat tersebut paling nyata pada prosedur yang diprediksi sulit dan pada pasien dengan landmark yang buruk.[15,16]
+Ultrasonografi saat ini dipandang sebagai alat bantu yang bernilai karena dapat digunakan untuk mengenali garis tengah, menentukan celah intervertebra yang paling sesuai, memperkirakan kedalaman ruang epidural, dan merencanakan trajektori insersi jarum. Oleh sebab itu, pembahasan mengenai penggunaan ultrasonografi untuk meningkatkan keberhasilan tindakan blok epidural memiliki relevansi klinis yang tinggi.[2-5]
 
 ### 1.2 Tujuan Referat
 
-Referat ini bertujuan menjelaskan peran USG dalam meningkatkan keberhasilan tindakan blok epidural melalui pembahasan anatomi neuraksial, keterbatasan teknik konvensional, prinsip dasar USG neuraksial, teknik panduan USG, dan penerapannya pada populasi dengan anatomi sulit.[1,2]
+Referat ini bertujuan menjelaskan peran ultrasonografi dalam meningkatkan keberhasilan tindakan blok epidural melalui pembahasan anatomi neuraksial, keterbatasan teknik konvensional, prinsip dasar ultrasonografi neuraksial, teknik panduan ultrasonografi, serta penerapannya pada populasi dengan anatomi sulit.[1-6]
 
 ### 1.3 Manfaat Referat
 
-Referat ini diharapkan memberikan manfaat akademik dan klinis berupa pemahaman yang lebih sistematis mengenai integrasi USG pada blok epidural, membantu pemilihan teknik pada pasien berisiko sulit, serta menjadi dasar untuk meningkatkan keberhasilan, efisiensi, dan keselamatan tindakan neuraksial di praktik sehari-hari.[4,5]
+Referat ini diharapkan menjadi bahan pembelajaran yang sistematis mengenai integrasi ultrasonografi pada blok epidural, membantu pengambilan keputusan klinis pada pasien dengan tindakan neuraksial sulit, dan menjadi acuan praktis untuk meningkatkan keberhasilan serta keselamatan prosedur.[1-4]
 
 ## BAB II. TINJAUAN PUSTAKA
 
@@ -36,110 +36,123 @@ Referat ini diharapkan memberikan manfaat akademik dan klinis berupa pemahaman y
 
 #### 1. Anatomi vertebra lumbal dan torakal
 
-Pemahaman anatomi vertebra torakal dan lumbal merupakan dasar tindakan blok epidural. Vertebra tersusun atas korpus di bagian anterior dan arkus vertebra di bagian posterior yang dibentuk oleh pedikel dan lamina. Dari arkus ini muncul prosesus spinosus di garis tengah serta prosesus artikularis superior dan inferior yang membentuk sendi faset. Pada regio torakal, prosesus spinosus cenderung lebih panjang dan menurun kaudal, sedangkan pada regio lumbal prosesus spinosus lebih tebal dan relatif horizontal. Perbedaan ini memengaruhi pilihan jalur median atau paramedian serta kualitas *acoustic window* saat pemeriksaan USG neuraksial.[2,3,6,7,17,18]
+Vertebra torakal dan lumbal tersusun atas korpus vertebra di bagian anterior serta arkus vertebra di bagian posterior. Arkus vertebra dibentuk oleh pedikel dan lamina, lalu berlanjut menjadi prosesus spinosus, prosesus transversus, dan prosesus artikularis superior serta inferior. Pada regio torakal, prosesus spinosus cenderung lebih panjang dan miring ke kaudal, sedangkan pada regio lumbal prosesus spinosus lebih tebal dan lebih mendatar. Perbedaan ini memengaruhi jalur median atau paramedian dan sangat menentukan kualitas jendela akustik saat ultrasonografi tulang belakang dilakukan.[3,5,6]
 
 #### 2. Ligamen neuraksial
 
-Ligamen yang dilalui pada pendekatan median meliputi ligamentum supraspinosum, ligamentum interspinosum, dan ligamentum flavum sebelum ujung jarum mencapai ruang epidural. Ligamentum supraspinosum membentang di puncak prosesus spinosus, ligamentum interspinosum berada di antara prosesus spinosus, sedangkan ligamentum flavum menghubungkan lamina vertebra yang berdekatan. Pada sonografi neuraksial, kompleks ligamentum flavum dan duramater posterior sering tampil sebagai bagian dari *posterior complex*, yang menjadi penanda penting perkiraan kedalaman target.[2,6,7,17,18]
+Pada pendekatan median, jarum melewati ligamentum supraspinosum, ligamentum interspinosum, dan ligamentum flavum sebelum mencapai ruang epidural. Ligamentum supraspinosum berada di sepanjang puncak prosesus spinosus, ligamentum interspinosum terletak di antara prosesus spinosus, sedangkan ligamentum flavum menghubungkan lamina vertebra yang berdekatan. Dalam ultrasonografi neuraksial, area ligamentum flavum bersama duramater posterior dikenali sebagai *posterior complex* dan menjadi penanda penting untuk memperkirakan kedalaman target.[3,5,6]
 
 #### 3. Ruang epidural
 
-Ruang epidural adalah ruang potensial yang terletak di antara ligamentum flavum dan duramater. Secara anatomis, batas anteriornya adalah ligamentum longitudinal posterior dan dinding kanalis vertebralis bagian anterior, batas posteriornya ligamentum flavum dan lamina, sedangkan batas lateralnya pedikel dan foramen intervertebralis. Ruang ini berisi lemak epidural, pleksus vena internal vertebralis atau pleksus Batson, jaringan ikat, pembuluh limfe, dan akar saraf spinal. Kedalaman ruang epidural dari kulit (*epidural depth* atau *epidural depth estimation* / EDD) bervariasi menurut habitus tubuh, posisi pasien, dan level pungsi; estimasi yang akurat penting untuk mengurangi tusukan berulang dan mencegah insersi terlalu dalam.[2,6,7,17,18]
+Ruang epidural adalah ruang potensial di antara ligamentum flavum dan duramater. Batas anteriornya adalah ligamentum longitudinal posterior dan dinding anterior kanalis vertebralis, batas posteriornya adalah ligamentum flavum dan lamina, sedangkan batas lateralnya adalah pedikel dan foramen intervertebralis. Ruang ini berisi lemak epidural, pleksus vena epidural, jaringan ikat, dan akar saraf spinal. Bagi operator, estimasi kedalaman ruang epidural dari permukaan kulit sangat penting untuk mengurangi penetrasi berlebihan dan meminimalkan percobaan berulang.[2,3,5,6]
 
 #### 4. Landmark permukaan tubuh konvensional dan akurasinya
 
-Pada teknik konvensional, operator mengandalkan landmark permukaan tubuh seperti garis interkrista atau garis Tuffier untuk memperkirakan level lumbal, umumnya sekitar L4 atau sela L4-L5. Akan tetapi, akurasi landmark palpasi terbatas, terutama pada pasien obesitas, edema, kehamilan, atau deformitas tulang belakang. USG dapat meningkatkan ketepatan penentuan interspace bila dibandingkan dengan palpasi semata, sehingga mengurangi kesalahan identifikasi level pungsi.[3,6-8]
+Secara konvensional, operator menggunakan penanda anatomi permukaan tubuh seperti garis interkrista atau garis Tuffier untuk memperkirakan level lumbal. Akan tetapi, ketepatan penanda ini dapat menurun pada pasien obesitas, pasien hamil, atau pasien dengan anatomi tulang belakang yang berubah. Ultrasonografi membantu memperbaiki identifikasi level pungsi karena memberikan gambaran anatomi yang lebih objektif dibanding palpasi semata.[1-4]
 
 ### B. Teknik Blok Epidural Konvensional dan Keterbatasannya
 
-#### 1. Teknik *Loss of Resistance* menggunakan udara atau salin
+#### 1. Teknik *loss of resistance* menggunakan udara atau salin
 
-Teknik blok epidural konvensional dilakukan dengan memajukan jarum Tuohy melalui jaringan lunak dan ligamen hingga mencapai ligamentum flavum, lalu menguji hilangnya resistensi dengan udara atau salin. Prinsipnya ialah perubahan resistensi yang dirasakan operator ketika ujung jarum memasuki ruang epidural. Walaupun teknik ini telah lama menjadi standar praktik, konfirmasi keberhasilan tetap bergantung pada sensasi taktil operator dan tidak memberikan visualisasi langsung terhadap target anatomi.[1,2,4,19]
+Teknik blok epidural konvensional umumnya dilakukan dengan memasukkan jarum Tuohy melalui jaringan lunak dan ligamen hingga mendekati ligamentum flavum, lalu menilai hilangnya resistensi dengan udara atau salin. Teknik ini tetap menjadi dasar praktik epidural, tetapi keberhasilannya bertumpu pada persepsi taktil operator dan tidak memberikan visualisasi langsung terhadap struktur sasaran.[3,6]
 
-Penggunaan udara maupun salin masing-masing memiliki kelebihan dan keterbatasan. Salin dianggap dapat menurunkan risiko kompresi udara dan *patchy block*, sedangkan udara kadang dianggap mempermudah persepsi LOR oleh operator tertentu. Namun, terlepas dari media yang digunakan, persoalan utama teknik LOR tetap terletak pada ketidakmampuan menentukan secara pasti level, kedalaman, dan trayektori optimal sebelum tusukan dilakukan.[2,4]
+Penggunaan udara ataupun salin pada teknik *loss of resistance* memiliki pertimbangan masing-masing, tetapi keduanya tidak mengatasi keterbatasan utama teknik konvensional, yaitu ketidakpastian level pungsi, arah jarum, dan kedalaman target sebelum insersi dilakukan.[3,6]
 
-#### 2. Faktor risiko kegagalan dan komplikasi teknik *blind*
+#### 2. Faktor risiko kegagalan dan komplikasi teknik konvensional
 
-Kegagalan teknik *blind* terutama berkaitan dengan identifikasi interspace yang tidak akurat, kesulitan insersi pada anatomi abnormal atau obesitas, serta meningkatnya jumlah *passes* dan *attempts*. Setiap upaya tambahan dapat menambah nyeri, memperpanjang waktu prosedur, dan meningkatkan risiko pungsi vaskular, pungsi duramater tidak disengaja, serta blok yang tidak adekuat.[3-5,8,9]
+Faktor yang paling sering menyebabkan kesulitan tindakan ialah identifikasi interspace yang tidak akurat, anatomi tulang belakang yang sulit, serta meningkatnya jumlah tusukan dan perubahan arah jarum. Keadaan ini dapat memperpanjang waktu tindakan dan meningkatkan risiko blok tidak adekuat, pungsi duramater yang tidak disengaja, serta ketidaknyamanan pasien. Bukti dari telaah sistematik menunjukkan bahwa manfaat ultrasonografi paling nyata justru terlihat pada kelompok pasien dengan prosedur yang diperkirakan sulit.[1,2,4]
 
-Pada pasien dengan skoliosis atau perubahan degeneratif, rotasi vertebra dan penyempitan ruang interlaminar dapat mengubah orientasi struktur yang lazim diharapkan operator. Pada pasien obesitas, ketebalan jaringan lunak mengurangi ketepatan palpasi landmark dan menambah jarak ke ruang epidural. Oleh karena itu, teknik *blind* memiliki keterbatasan inheren pada kelompok-kelompok ini dan menjadi alasan kuat untuk penggunaan USG sebagai alat bantu.[3,9,10]
-
-### C. Prinsip Dasar dan Teknis USG Neuraksial
+### C. Prinsip Dasar dan Teknis Ultrasonografi Neuraksial
 
 #### 1. Pemilihan peralatan dan pengaturan alat
 
-USG neuraksial pada pasien dewasa umumnya menggunakan probe konveks (*curved array*) frekuensi rendah 2–5 MHz karena memberikan penetrasi lebih baik terhadap struktur dalam. Probe linier dapat digunakan pada populasi pediatrik, pasien sangat langsing, atau ketika struktur target relatif superfisial. Pengaturan dasar yang harus dioptimalkan meliputi *gain* untuk memperjelas kontras jaringan, *depth* agar kompleks posterior dan anterior berada dalam bidang tampilan, serta *focus* pada kedalaman target untuk meningkatkan ketajaman citra.[1,2,6,7,17,18]
+Pada pasien dewasa, ultrasonografi neuraksial umumnya menggunakan transduser konveks frekuensi rendah 2-5 MHz atau transduser *curved array* karena daya tembusnya lebih baik untuk struktur yang dalam. Pada pasien yang lebih kurus atau pada struktur yang lebih superfisial, transduser linier dapat dipertimbangkan. Pengaturan *gain*, *depth*, dan *focus* harus disesuaikan agar *posterior complex* dan struktur yang lebih dalam tampak jelas pada layar.[3,5]
 
 #### 2. Akustik tulang belakang dan fenomena sonografi
 
-Struktur tulang belakang menghasilkan pantulan akustik tinggi dengan *acoustic shadowing* di bawahnya, sehingga prosesus spinosus dan lamina tampak hiperekoik dengan bayangan posterior gelap. Sebaliknya, ruang interspinosus atau interlaminar membentuk *acoustic window* yang memungkinkan visualisasi elemen kanalis spinal secara tidak langsung. Pemahaman terhadap fenomena ini penting agar operator mampu membedakan hambatan tulang dari jendela akustik yang sesuai untuk menilai ruang epidural.[1-3,7]
+Tulang menghasilkan pantulan akustik tinggi dengan bayangan akustik di bawahnya. Oleh karena itu, prosesus spinosus dan lamina tampak hiperekoik dengan bayangan posterior gelap. Sebaliknya, ruang interspinosus atau interlaminar menjadi jendela akustik yang memungkinkan operator menilai struktur neuraksial secara tidak langsung. Pemahaman tentang hubungan antara tulang, bayangan akustik, dan jendela akustik merupakan dasar interpretasi citra ultrasonografi neuraksial.[3,5]
 
-#### 3. Bidang pindaian (*scanning planes*)
+#### 3. Bidang pindaian
 
-Bidang pindaian yang lazim dipakai meliputi *transverse interspinous view* atau *transverse medial view* serta *paramedian sagittal view* atau *paramedian sagittal oblique* (PSO) view. Pada potongan transversal, operator dapat menilai garis tengah, kompleks posterior, kompleks anterior, dan perkiraan jarak kulit ke target. Pada potongan paramedian sagital oblik, lamina tampak berurutan menyerupai pola "gergaji" atau *sawtooth*, sementara sela di antaranya membentuk jendela untuk menilai ruang interlaminar dan arah trajektori yang lebih menguntungkan, terutama pada pasien dewasa dan obstetri.[2,6,7,11]
+Bidang pindaian yang paling penting ialah *transverse interspinous view* dan *paramedian sagittal oblique view*. Potongan transversal membantu mengenali garis tengah, kompleks posterior, kompleks anterior, dan perkiraan kedalaman target. Potongan paramedian sagital oblik sangat berguna untuk melihat susunan lamina yang membentuk pola *sawtooth* serta menilai celah interlaminar yang paling sesuai untuk jalur jarum.[3,5]
 
 #### 4. Gambaran sonografi ruang epidural
 
-Pada sonografi neuraksial, struktur target tidak selalu tampak sebagai ruang hitam yang jelas. Yang lebih penting ialah pengenalan kompleks posterior, yaitu ligamentum flavum dan duramater posterior, serta kompleks anterior yang mewakili duramater anterior, ligamentum longitudinal posterior, dan permukaan posterior korpus vertebra atau diskus. Identifikasi kedua kompleks tersebut membantu operator memperkirakan kedalaman ruang epidural dan memilih jalur jarum yang paling rasional.[2,6,7,11]
+Pada ultrasonografi neuraksial, ruang epidural tidak selalu tampak sebagai rongga yang jelas. Yang lebih penting ialah identifikasi *posterior complex* dan *anterior complex*. Kedua penanda ini membantu operator memperkirakan lokasi relatif ruang epidural dan menyesuaikan arah insersi jarum. Penilaian tersebut sangat bermanfaat pada tindakan epidural yang sulit.[3,5]
 
 ### D. Prosedur Panduan USG pada Blok Epidural
 
-#### 1. Pindaian pra-tindakan (*pre-procedure ultrasound scan* / teknik statis)
+#### 1. Pindaian pra-tindakan
 
-Pada teknik statis, USG dilakukan sebelum insersi jarum untuk memetakan anatomi dan merencanakan pungsi. Tahap awal adalah mengenali sakrum dan sela L5-S1, kemudian menghitung interspace secara kranial hingga mencapai level yang diinginkan. Setelah level ditetapkan, operator menandai garis tengah atau *line of symmetry* serta titik masuk jarum yang paling sesuai pada kulit.[2,3,6,7,17,18]
+Pindaian pra-tindakan dilakukan sebelum jarum dimasukkan. Operator mengenali sakrum, menghitung sela intervertebra dari kaudal ke kranial, menentukan garis tengah, memilih titik pungsi, dan memperkirakan kedalaman ruang epidural. Pendekatan ini merupakan bentuk penggunaan ultrasonografi yang paling praktis dan paling banyak didukung bukti ilmiah untuk meningkatkan keberhasilan tindakan epidural.[1-5]
 
-USG pra-tindakan juga memungkinkan pengukuran jarak kulit ke ruang epidural atau EDD. Nilai ini membantu operator memperkirakan kapan ujung jarum diperkirakan mencapai target dan dapat mengurangi risiko penetrasi terlalu dalam. Selain itu, citra USG dapat dipakai untuk menilai sudut kraniokaudal dan mediolateral yang diperlukan, sehingga insersi menjadi lebih terarah. Meta-analisis menunjukkan bahwa pendekatan ini secara umum meningkatkan keberhasilan pungsi pertama dan menurunkan jumlah percobaan dibanding teknik berbasis landmark semata.[4,5,15,16]
+Selain menentukan level pungsi, ultrasonografi pra-tindakan membantu operator memperkirakan arah kraniokaudal dan mediolateral yang paling sesuai. Hal ini bermanfaat untuk mengurangi percobaan berulang dan mempersingkat proses penyesuaian arah jarum setelah kulit ditembus.[1-4]
 
-#### 2. Panduan USG real-time (*dynamic ultrasound*)
+#### 2. Panduan ultrasonografi *real-time*
 
-Panduan real-time dilakukan dengan mempertahankan probe pada posisi pindaian saat jarum dimajukan. Teknik ini dapat menggunakan pendekatan *in-plane*, ketika jarum diusahakan sejajar dengan bidang USG agar batang dan ujungnya lebih mudah diikuti, atau *out-of-plane*, ketika jarum memotong bidang USG dan biasanya tampak sebagai titik hiperekoik. Secara teoritis, teknik real-time memberi keuntungan berupa visualisasi langsung hubungan jarum dengan struktur target, tetapi pelaksanaannya lebih sulit karena keterbatasan ruang gerak, bayangan tulang, dan tantangan mempertahankan visualisasi jarum.[1,11,17]
+Panduan ultrasonografi *real-time* berarti transduser tetap dipertahankan pada posisi pindaian selama jarum dimajukan. Teknik ini dapat dilakukan dengan pendekatan *in-plane* atau *out-of-plane*. Secara teoretis, teknik ini memberi keuntungan karena hubungan antara jarum dan anatomi dapat dipantau lebih langsung, tetapi penerapannya jauh lebih menantang akibat keterbatasan ruang gerak, hambatan tulang, dan sulitnya mempertahankan visualisasi jarum secara konsisten.[3,5]
 
-Indikasi khusus teknik real-time dapat dipertimbangkan pada operator yang berpengalaman, kasus anatomi sangat sulit, atau ketika pendekatan statis belum memberikan kejelasan yang memadai. Meskipun beberapa laporan dan uji klinis menunjukkan hasil menjanjikan, teknik ini belum sepraktis dan semapan pindaian pra-tindakan untuk penggunaan rutin luas.[11,13,14]
+Karena alasan tersebut, penggunaan ultrasonografi sebelum tindakan tetap lebih mudah diterapkan secara rutin. Panduan *real-time* lebih tepat dipandang sebagai teknik lanjutan yang memerlukan pengalaman dan koordinasi tangan-mata yang lebih baik.[3,5]
 
 ### E. Penggunaan USG pada Populasi Anatomi Sulit
 
 #### 1. Pasien obesitas
 
-Pada pasien obesitas, palpasi prosesus spinosus dan penentuan garis interkrista sering tidak andal karena jaringan subkutan yang tebal. USG membantu mengidentifikasi garis tengah, level interspace, serta memperkirakan EDD secara lebih objektif. Hal ini penting karena pasien obesitas cenderung membutuhkan panjang lintasan jarum lebih besar dan memiliki risiko *multiple attempts* bila hanya mengandalkan landmark palpasi.[5,8-10]
+Pada pasien obesitas, ketebalan jaringan lunak membuat palpasi prosesus spinosus dan identifikasi garis interkrista menjadi kurang andal. Ultrasonografi membantu menemukan garis tengah, memilih sela intervertebra, serta memperkirakan kedalaman ruang epidural dengan lebih objektif. Oleh karena itu, kelompok ini termasuk yang paling jelas memperoleh manfaat dari ultrasonografi neuraksial.[1-4]
 
 #### 2. Pasien dengan kelainan struktur tulang
 
-Skoliosis, ankilosing spondylitis, dan perubahan degeneratif dapat menyebabkan distorsi anatomi neuraksial, asimetri ruang interlaminar, serta perubahan orientasi prosesus spinosus. USG membantu menilai jalur paramedian yang lebih terbuka, menentukan sisi yang lebih memungkinkan, dan mengurangi tebakan operator pada anatomi yang tidak lazim. Laporan kasus dan seri kasus menunjukkan manfaat USG pada pasien skoliosis, sedangkan telaah teknis terbaru mendukung penggunaannya pada beragam kelainan struktur tulang belakang.[12,14]
+Pada pasien dengan skoliosis, spondilitis ankilosa, atau perubahan degeneratif, orientasi struktur tulang belakang dapat berubah sehingga jalur median konvensional menjadi lebih sukar. Ultrasonografi membantu operator memilih jalur yang paling memungkinkan, terutama bila jalur paramedian memberikan jendela akustik yang lebih baik.[3,5]
 
 #### 3. Pasien pascaoperasi vertebra atau instrumen spinal
 
-Pada pasien pascaoperasi tulang belakang, jaringan parut, perubahan anatomi pasca laminektomi, dan keberadaan instrumen spinal dapat menyulitkan akses neuraksial. USG tidak selalu dapat meniadakan hambatan akustik dari perangkat logam, namun tetap bermanfaat untuk mencari sela yang masih dapat digunakan, mengidentifikasi area dengan jendela akustik relatif lebih baik, dan mengurangi percobaan buta yang berulang.[14]
+Pada pasien pascaoperasi tulang belakang, jaringan parut dan perubahan anatomi pascabedah dapat mempersulit tindakan neuraksial. Ultrasonografi tetap bermanfaat untuk menilai celah intervertebra yang masih dapat diakses dan membantu memperkirakan jalur insersi yang paling rasional.[3,5]
 
 #### 4. Pasien obstetri
 
-USG neuraksial memiliki relevansi tinggi pada analgesia epidural persalinan karena perubahan anatomi kehamilan dan peningkatan prevalensi obesitas dapat menyulitkan palpasi landmark. Berbagai penelitian pada populasi obstetri menunjukkan bahwa USG meningkatkan keandalan identifikasi interspace, membantu estimasi EDD, dan dapat meningkatkan efisiensi pemasangan epidural, terutama pada pasien dengan landmark sulit.[7-10,15]
+Pasien obstetri merupakan kelompok yang paling sering dibahas dalam sumber-sumber yang digunakan pada referat ini. Kehamilan, perubahan postur, dan tidak jelasnya penanda anatomi permukaan tubuh dapat menyulitkan tindakan epidural. Meta-analisis pada populasi obstetri menunjukkan bahwa ultrasonografi pra-tindakan meningkatkan keberhasilan tusukan pertama dan terutama bermanfaat pada kasus yang diperkirakan sulit.[1,4]
 
 #### 5. Populasi pediatrik
 
-Pada populasi pediatrik, struktur tulang belakang lebih superfisial dan osifikasi belum lengkap, sehingga jendela akustik relatif lebih baik dibanding dewasa. USG dapat membantu identifikasi struktur neuraksial, memperkirakan kedalaman, dan memandu pemasangan kateter epidural dengan lebih presisi. Uji prospektif teracak menunjukkan bahwa panduan USG real-time pada anak dapat meningkatkan akurasi penempatan kateter epidural dibanding teknik landmark konvensional.[13]
+Pada populasi pediatrik, prinsip pemetaan anatomi dengan ultrasonografi tetap relevan karena struktur neuraksial lebih dangkal. Namun, berdasarkan sumber yang digunakan dalam referat ini, pembahasan khusus mengenai pediatrik tidak sedalam pembahasan pada populasi dewasa dan obstetri. Oleh sebab itu, ultrasonografi pada populasi ini dapat dipahami melalui prinsip umum identifikasi anatomi, estimasi kedalaman, dan optimasi arah insersi jarum.[3,5]
 
 ## BAB III. KESIMPULAN
 
-USG merupakan modalitas penunjang yang bernilai tinggi untuk meningkatkan keberhasilan tindakan blok epidural. Dengan memvisualisasikan anatomi neuraksial secara tidak langsung, USG memungkinkan identifikasi interspace yang lebih akurat, estimasi kedalaman ruang epidural, penentuan titik pungsi, dan optimasi trayektori jarum. Bukti ilmiah menunjukkan bahwa pindaian USG pra-tindakan secara konsisten bermanfaat dalam meningkatkan keberhasilan tusukan pertama dan mengurangi jumlah percobaan, khususnya pada pasien dengan landmark sulit atau anatomi abnormal. Panduan USG real-time menjanjikan keuntungan tambahan, tetapi memerlukan keterampilan teknis lebih tinggi dan belum selalu mudah diterapkan secara rutin. Secara keseluruhan, integrasi USG ke dalam praktik blok epidural dapat meningkatkan efikasi, efisiensi, dan keselamatan prosedur, terutama bila digunakan oleh operator yang terlatih dan pada populasi berisiko tinggi mengalami kesulitan tindakan.[1,4,5,10,14-17]
+Ultrasonografi merupakan alat bantu yang efektif untuk meningkatkan keberhasilan tindakan blok epidural. Manfaat utamanya terletak pada kemampuan mengidentifikasi level pungsi, garis tengah, jendela akustik terbaik, perkiraan kedalaman ruang epidural, dan arah insersi jarum yang lebih tepat. Bukti yang tersedia menunjukkan bahwa ultrasonografi pra-tindakan meningkatkan keberhasilan tusukan pertama dan menurunkan jumlah percobaan, dengan manfaat paling nyata pada pasien obstetri dan pasien dengan anatomi sulit. Sementara itu, panduan ultrasonografi *real-time* tetap menjanjikan, tetapi lebih kompleks secara teknis. Dengan demikian, integrasi ultrasonografi dalam praktik blok epidural layak dipertimbangkan sebagai bagian dari upaya meningkatkan keamanan, efisiensi, dan mutu pelayanan anestesi regional neuraksial.[1-6]
+
+## PETUNJUK GAMBAR YANG DISARANKAN
+
+Karena gambar pada jurnal, buku, dan materi referensi memiliki hak cipta, file referat ini tidak menyalin ulang gambar asli ke dalam repositori. Namun, agar referat Anda lebih lengkap, berikut gambar yang sangat disarankan untuk dicantumkan pada dokumen akhir dengan tetap menyebutkan sumber aslinya.[3,5,6]
+
+1. **Gambar anatomi vertebra torakal dan lumbal**  
+   Cantumkan gambar yang menunjukkan korpus vertebra, pedikel, lamina, prosesus spinosus, dan prosesus artikularis. Gambar ini paling tepat diletakkan pada subbab anatomi neuraksial. Sumber yang paling sesuai untuk dicari pada file unggahan adalah `Manuel Pardo epidural.pdf` dan `Ultrasound guidance for neuraxial anesthesia techniques - UpToDate.pdf`.[3,6]
+
+2. **Gambar jalur median dan paramedian pada blok epidural**  
+   Cantumkan ilustrasi perbandingan jalur median dan paramedian, termasuk lapisan jaringan yang dilalui jarum. Gambar ini penting untuk menjelaskan hubungan antara anatomi dan teknik pungsi. Sumber yang paling sesuai ialah `Manuel Pardo epidural.pdf`.[6]
+
+3. **Gambar penanda anatomi permukaan tubuh**  
+   Cantumkan gambar garis interkrista atau garis Tuffier serta letaknya terhadap vertebra lumbal. Gambar ini mendukung pembahasan keterbatasan teknik berbasis penanda anatomi. Sumber yang dapat ditelusuri ialah `Ultrasound guidance for neuraxial anesthesia techniques - UpToDate.pdf`.[3]
+
+4. **Gambar posisi transduser dan bidang pindaian ultrasonografi neuraksial**  
+   Cantumkan gambar posisi transduser untuk *transverse interspinous view* dan *paramedian sagittal oblique view*. Gambar ini sangat penting karena merupakan inti dari pembahasan teknis ultrasonografi tulang belakang. Sumber yang paling sesuai ialah `usg spine hadzics textbook RA and pain_Extracted.pdf` dan `Ultrasound guidance for neuraxial anesthesia techniques - UpToDate.pdf`.[3,5]
+
+5. **Gambar pola sonografi tulang belakang**  
+   Cantumkan gambar yang menunjukkan bayangan akustik tulang, pola *sawtooth*, *posterior complex*, dan *anterior complex*. Gambar ini membantu pembaca memahami bagaimana struktur target dikenali pada layar USG. Sumber yang paling sesuai ialah `usg spine hadzics textbook RA and pain_Extracted.pdf`.[3,5]
+
+6. **Gambar penentuan kedalaman ruang epidural**  
+   Cantumkan gambar atau tangkapan citra yang memperlihatkan pengukuran dari kulit ke ruang epidural. Gambar ini sangat penting untuk menjelaskan manfaat ultrasonografi pra-tindakan. Sumber yang paling sesuai ialah `Pre-Procedural Lumbar Neuraxial Ultrasound—A Systematic.pdf` dan `Ultrasound guidance for neuraxial anesthesia techniques - UpToDate.pdf`.[2,3]
+
+7. **Gambar algoritme pindaian pra-tindakan**  
+   Cantumkan ilustrasi langkah pindaian dari identifikasi sakrum, penghitungan sela L5-S1 ke kranial, penentuan garis tengah, hingga penandaan titik pungsi. Gambar ini akan membuat bagian prosedur menjadi jauh lebih mudah dipahami. Sumber yang paling sesuai ialah `Ultrasound guidance for neuraxial anesthesia techniques - UpToDate.pdf` dan `usg spine hadzics textbook RA and pain_Extracted.pdf`.[3,5]
+
+8. **Gambar manfaat USG pada pasien obstetri atau pasien dengan penanda anatomi sulit**  
+   Bila tersedia, cantumkan gambar yang menunjukkan perbedaan kejelasan penanda anatomi pada pasien sulit atau gambar sonografi yang lebih membantu pada populasi obstetri. Sumber yang paling sesuai untuk mendukung narasi ini ialah `Anaesthesia - 2020 - Young - Conventional landmark palpation vs  preprocedural ultrasound for neuraxial analgesia and.pdf` dan `cochrane Ultrasound guidance versus anatomical landmarks for neuraxial.pdf`.[1,4]
 
 ## Daftar Pustaka
 
-1. Gaur A, Dedhia J, Bouazza-Marouf K. Ultrasound and central neuraxial blocks. Saudi J Anaesth. 2018;12(2):175-177. doi:10.4103/sja.SJA_768_17.
-2. Chin KJ, Perlas A, Chan V, Brull R. The ultrasound-assisted lumbar puncture and epidural: An evolving technique. Can J Anaesth. 2011;58(11):1119-1133. doi:10.1007/s12630-011-9602-1.
-3. Grau T. Ultrasonography in the identification of spinal landmarks. Anaesthesia. 2010;65(8):786-795. doi:10.1111/j.1365-2044.2010.06318.x.
-4. Perlas A, Chaparro LE, Chin KJ. Lumbar neuraxial ultrasound for spinal and epidural anesthesia: a systematic review and meta-analysis. Reg Anesth Pain Med. 2016;41(2):251-260. doi:10.1097/AAP.0000000000000371.
-5. Sidiropoulou T, Christodoulaki K, Siristatidis C. Pre-procedural lumbar neuraxial ultrasound: a systematic review of randomized controlled trials and meta-analysis. Healthcare (Basel). 2021;9(4):479. doi:10.3390/healthcare9040479.
-6. Arzola C, Davies S, Rofaeel A, Carvalho JCA. Ultrasound using the transverse approach to the lumbar spine provides reliable landmarks for labour epidurals. Anesth Analg. 2007;104(5):1188-1192. doi:10.1213/01.ane.0000261998.99491.c9.
-7. Şahin T, Balaban O. Lumbar ultrasonography for obstetric neuraxial blocks: sonoanatomy and literature review. Turk J Anaesthesiol Reanim. 2018;46(4):257-267. doi:10.5152/TJAR.2018.90277.
-8. Grau T, Leipold RW, Conradi R, Martin E, Motsch J. Efficacy of ultrasound imaging in obstetric epidural anesthesia. J Clin Anesth. 2002;14(3):169-175. doi:10.1016/S0952-8180(02)00350-9.
-9. Balki M, Lee Y, Halpern SH. Ultrasound imaging of the lumbar spine in the transverse plane: the correlation between estimated and actual depth to the epidural space in obese parturients. Anesth Analg. 2009;108(6):1876-1881. doi:10.1213/ane.0b013e3181a323f6.
-10. Ferrari F, Biasucci DG, Lucchesi S, Draisci G, Catalano C, Iannarelli R, et al. Lumbar neuraxial ultrasound for obstetric anesthesia: a scoping review. Int J Obstet Anesth. 2020;42:69-81. doi:10.1016/j.ijoa.2019.11.005.
-11. Karmakar MK, Li X, Ho AMH, Kwok WH, Chui PT, Ngan Kee WD. Real-time ultrasound-guided paramedian epidural access: evaluation of a novel in-plane technique. Br J Anaesth. 2009;102(6):845-854. doi:10.1093/bja/aep089.
-12. McLeod A, Roche A, Fennelly M. Case series: ultrasonography may assist epidural insertion in scoliosis patients. Can J Anaesth. 2005;52(7):717-720. doi:10.1007/BF03016559.
-13. Mital T, Kamal M, Kumar M, Kumar R, Bhatia P, Singariya G. Comparison of landmark and real-time ultrasound-guided epidural catheter placement in the pediatric population: a prospective randomized comparative trial. Anesth Pain Med (Seoul). 2021;16(4):368-376. doi:10.17085/apm.21035.
-14. Kalagara H, Nair H, Kolli S, Thota G, Uppal V. Ultrasound imaging of the spine for central neuraxial blockade: a technical description and evidence update. Curr Anesthesiol Rep. 2021;11:301-313. doi:10.1007/s40140-021-00456-3.
-15. Young B, Onwochei D, Desai N. Conventional landmark palpation vs preprocedural ultrasound for neuraxial analgesia and anaesthesia in obstetrics: a systematic review and meta-analysis with trial sequential analyses. Anaesthesia. 2020;75(8):1001-1016. doi:10.1111/anae.15072.
-16. Makino Y, Miyake K, Roche D, Yoshimura S, Nahara I, Sahker E, et al. Ultrasound guidance versus anatomical landmarks for neuraxial anaesthesia in adults. Cochrane Database Syst Rev. 2025;5:CD014964. doi:10.1002/14651858.CD014964.pub2.
-17. Kamdar BB, Hao D. Ultrasound guidance for neuraxial anesthesia techniques. UpToDate. Waltham, MA: Wolters Kluwer; 2024 Oct 9. Available from: https://www.uptodate.com.
-18. Kwok WH, Karmakar MK. Spinal sonography and considerations for ultrasound-guided central neuraxial blockade. In: Hadzic A, Carrera A, Clark T, Gadsden J, Karmakar M, Sala-Blanch X, et al., editors. Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia. 2nd ed. New York: McGraw-Hill Medical; 2012. p. 475.
-19. Pardo MC Jr. Spinal, epidural, and caudal anesthesia. In: Pardo MC Jr, editor. Miller’s Basics of Anesthesia. 8th ed. Philadelphia: Elsevier; 2023.
+1. Young B, Onwochei D, Desai N. Conventional landmark palpation vs preprocedural ultrasound for neuraxial analgesia and anaesthesia in obstetrics: a systematic review and meta-analysis with trial sequential analyses. Anaesthesia. 2020;75(8):1001-1016. doi:10.1111/anae.15072.
+2. Sidiropoulou T, Christodoulaki K, Siristatidis C. Pre-procedural lumbar neuraxial ultrasound: a systematic review of randomized controlled trials and meta-analysis. Healthcare (Basel). 2021;9(4):479. doi:10.3390/healthcare9040479.
+3. Kamdar BB, Hao D. Ultrasound guidance for neuraxial anesthesia techniques. UpToDate. Waltham, MA: Wolters Kluwer; 2024 Oct 9. Available from: https://www.uptodate.com.
+4. Makino Y, Miyake K, Roche D, Yoshimura S, Nahara I, Sahker E, et al. Ultrasound guidance versus anatomical landmarks for neuraxial anaesthesia in adults. Cochrane Database Syst Rev. 2025;5:CD014964. doi:10.1002/14651858.CD014964.pub2.
+5. Kwok WH, Karmakar MK. Spinal sonography and considerations for ultrasound-guided central neuraxial blockade. In: Hadzic A, Carrera A, Clark T, Gadsden J, Karmakar M, Sala-Blanch X, et al., editors. Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia. 2nd ed. New York: McGraw-Hill Medical; 2012. p. 475.
+6. Pardo MC Jr. Spinal, epidural, and caudal anesthesia. In: Pardo MC Jr, editor. Miller’s Basics of Anesthesia. 8th ed. Philadelphia: Elsevier; 2023.
